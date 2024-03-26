@@ -49,4 +49,4 @@ docker run my_docker_image
 ```
 
 
-**NOTE:** Both Docker Images were tested and run successfully.
+**NOTE:** Docker Image was tested and run successfully.
