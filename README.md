@@ -39,7 +39,7 @@ To analyze the data, build, evaluate and tune the model follow these steps:
 ### Using Dockerfiles
 You can also use a Dockerfile to build the image for the scripts. Open a terminal and navigate to the directory containing Dockerfiles and Python files. Build the image using the following command:
 ```bash
-docker build -t my_docker_image -f Dockerfile_analysis .
+docker build -t my_docker_image -f Dockerfile .
 ```
 You can replace "my_docker_image" with the desired name for your Docker image.
 
