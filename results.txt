@@ -1,0 +1,6 @@
+Algorithm: XGBoost
+Average Accuracy: 0.8831
+Average Precision: 0.8654
+Average Recall: 0.8358
+Average F1-score: 0.8487
+--------------------------------------------------
